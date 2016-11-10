@@ -41,8 +41,7 @@ public class HW3_5 {
 		
 //		5. Assume that the following declarations have been made.
 		double year = Math.round(Math.random()*(Math.random()*100));
-		boolean isLe
-		apYear;
+		boolean isLeapYear;
 //		Write a fragment that will assign isLeapYear the value true if year
 //		represents a leap year and false otherwise.
 //		A year is usually a leap year if its number is a multiple of four. It is
@@ -57,7 +56,6 @@ public class HW3_5 {
 			isLeapYear = false;
 			System.out.println(isLeapYear);
 		}
-		
 	}
 	
 }
