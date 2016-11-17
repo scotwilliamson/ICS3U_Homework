@@ -5,7 +5,7 @@ public class HW3_4 {
 	public static void main(String[] args) {
 		//I have only done the more challenging questions
 		
-		
+		//boosted
 //		2. Simplify as much as possible.
 //		(a) !(a <= b) 
 //		(b) !(x != 0)
